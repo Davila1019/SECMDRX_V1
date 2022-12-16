@@ -1,0 +1,25 @@
+Sistema Cristalográfico: Cúbico Centrado en Cara
+
+a(Å) = 4.0500
+b(Å) = 4.0500
+c(Å) = 4.0500
+
+Alpha(°) = 90.0000
+Beta(°)  = 90.0000
+Gamma(°) = 90.0000
+
+El cobre es un metal de transición que, a temperatura ambiente y en estado natural, se encuentra en estado sólido. Su símbolo químico es Cu y su número atómico es 29.
+
+Industria Eléctrica
+El cobre se emplea como conductor eléctrico en la fabricación de cables eléctricos y coaxiales, así como en el interior de generadores, motores y transformadores eléctricos. Además, los circuitos integrados y numerosos componentes de los sistemas informáticos contemporáneos requieren de cobre para su fabricación.
+
+Industria del transporte
+Numerosos vehículos automotores requieren de cobre para sus partes y repuestos, tales como radiadores, frenos y cojinetes, además del necesario cableado para los componentes eléctricos. Igualmente se emplea en aleaciones para elaborar partes del casco de los barcos.
+
+Industria de la construcción
+Debido a su resistencia a la corrosión, el cobre y el latón se emplean en vez del plomo tradicional en la mayoría de las tuberías de agua, en tanto conjuntos residenciales como industriales o comerciales. Esto se debe a que el plomo es nocivo para la salud y el cobre es un material arquitectónico común. También se usa para los pomos de las puertas, para las estatuas de las plazas, las campanas de las iglesias y para un amplio segmento del sector construcción.
+
+Artículos Mecánicos
+La mayoría de las monedas del mundo están compuestas por cobre en diversas aleaciones con níquel, estaño y otros metales, como el aluminio o el bronce.
+También el cobre sirve de insumo en la obtención de otros metales más específicos, como el latón (Cu + Zn), el bronce (Cu + Sn), la alpaca (Cu + Ni + Zn), o en la producción del alambrón, de pilas eléctricas, etc.
+

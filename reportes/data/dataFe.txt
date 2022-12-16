@@ -1,0 +1,30 @@
+Sistema Cristalográfico: Cúbico Centrado en Cuerpo
+
+a(Å) = 4.0500
+b(Å) = 4.0500
+c(Å) = 4.0500
+
+Alpha(°) = 90.0000
+Beta(°)  = 90.0000
+Gamma(°) = 90.0000
+
+El hierro es un elemento químico de número atómico 26 y peso atómico igual a 55.847 u.m.a.  Se representa con el símbolo Fe.  Es el cuarto elemento más abundante en la corteza terrestre y representa un 5 % de sus componentes. Sin embargo, en la naturaleza no se encuentra en estado puro y tampoco es utilizado en estado puro, sino que se combina con otros metales o con otros elementos químicos, formando aleaciones.
+
+Industria de la construcción
+Más de la mitad del acero que se produce anualmente en todo el mundo está destinado a la construcción de edificios e infraestructuras como puentes, gasolineras, aeropuertos, puertos, estaciones de tren, túneles o vías férreas (que pueden durar entre 30 y 35 años).
+
+Equipamiento mecánico
+La construcción de maquinaria es el segundo uso más importante del acero. Incluye (entre muchas otras aplicaciones) maquinaria pesada (excavadoras, pavimentadoras, tractores, grúas…), maquinaria que fabrica y mecaniza otras piezas (como piezas para automoción) y herramientas manuales como martillos y palas.
+
+Industria Automotriz
+De los 1.500 kg de media que pesa un automóvil, unos 900 son de acero. Alrededor de un tercio se usa en la estructura de la carrocería y el exterior (incluyendo las puertas), un cuarto en el tren de transmisión y sobre un 12% está en la suspensión. En un automóvil moderno se usan aceros avanzados de alta resistencia, más livianos que los tradicionales, fabricados por medio de procesos complejos, y representan alrededor del 60% de sus estructuras de carrocería.
+
+Artículos Mecánicos
+El mercado de los artículos metálicos del acero abarca los productos de consumo como mobiliario (estanterías, armarios, fregaderos…), envases para alimentos y bebidas, artículos pequeños como cuchillas de afeitar o tijeras, etc.
+
+Industria del transporte
+La automoción es el medio de transporte que más acero utiliza actualmente, pero no debemos olvidar que el resto (barcos, trenes, aviones -sobre todo en motores y tren de aterrizaje-, etc.) también se fabrican con grandes cantidades de acero. Según la WSA los barcos hechos con acero transportan el 90% de las mercancías mundiales. Y el acero no sólo es importante en el transporte marítimo por la manera en que se fabrican los barcos, sino también por la manera como se transporta la carga dentro de ellos: casi la totalidad de los contenedores de mercancías que se cargan y descargan en los puertos, unos 17 millones de contenedores, están fabricados de acero.
+Cada casa alberga centenares de kilos de acero. Las cocinas, los microondas, las neveras, las lavadoras, los lavavajillas, etc. contienen grandes cantidades de acero (tres cuartas partes aproximadamente).
+
+Industria Eléctrica
+Las aplicaciones en la producción y distribución de la electricidad son el último de los grandes usos del hierro en forma de acero. Generadores eléctricos, motores eléctricos, cables reforzados con acero, transformadores, etc., contienen este metal.

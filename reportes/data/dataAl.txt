@@ -1,0 +1,22 @@
+Sistema Cristalográfico: Cúbico Centrado en Cara
+
+a(Å) = 4.0500
+b(Å) = 4.0500
+c(Å) = 4.0500
+
+Alpha(°) = 90.0000
+Beta(°)  = 90.0000
+Gamma(°) = 90.0000
+
+El aluminio es el metal más abundante en la corteza terrestre, donde se encuentra combinado con oxígeno, flúor, sílice, etc., pero nunca en estado metálico, se representa por Al y su número atómico es 13. A nivel mecánico, el aluminio resulta blando y maleable, por lo que lo más frecuente es su uso en forma de aleaciones. Las más comunes son las elaboradas con cobre, cinc, manganeso, magnesio o silicio.
+
+Industria del transporte
+El duraluminio es una de las aleaciones más conocidas, compuesta por aluminio, cobre, manganeso y magnesio. Por su ligereza y resistencia, se utiliza en la estructura de aviones, trenes de alta velocidad, tranvías, automóviles y autobuses. Por otro lado, en las carrocerías la chapa de aluminio es muy empleada para fabricar chasis, remolques y otros elementos, aligerando el peso total de forma considerable (cerca de un 30% en automóviles). Esto contribuye a un menor consumo de combustible y, por tanto, de emisiones. Por estas razones gran parte del acero empleado en la industria automotriz ha sido sustituido en los últimos años por aluminio.
+Además, a partir de la cinta de aluminio se elaboran piezas por estampación para la industria automovilística (rejillas, bastidores, llantas, etc.) y para la aviación (partes del fuselaje, trenes de aterrizaje). Los criterios para su uso son tanto económicos como ecológicos.
+
+Industria maquinaria
+El aluminio es un material utilizado también en fabricación de maquinaria industrial y herramientas. En la industria petrolífera permite el trabajo en aguas profundas, formando parte por ejemplo de tubos de perforación, todo gracias a su ligereza y resistencia.
+
+Industria Eléctrica
+Su papel en la industria eléctrica es muy relevante: con la misma longitud y peso que el cobre, tiene mayor conductividad, además de mejor precio. Y, al ser más ligero, permite una mayor separación entre torres de alta tensión, disminuyendo así los costes. Está sustituyendo paulatinamente al cobre al ser más eficiente.
+Con la técnica de doblado y conformado, se usan tanto chapa de aluminio como flejes en instalaciones térmicas.
